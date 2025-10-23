@@ -8,6 +8,8 @@
 - Changable inserts to support different drill bit diameters
 - Insert- as well as the bolt diameter can be changed easily via parameters
 
+# ![Self-centering Drill Guide](imgs/collage.jpg)
+
 ## Usage
 
 Aligning the tool correctly can be hard. This is espacilly true for holes with smaller diameters
