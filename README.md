@@ -29,6 +29,8 @@ Alignment mark: 67.7 mm
 Place the marking 67.7 mm away from the edge, align the longer handles edge with the marking
 and the hole will be positioned exactly 10 mm away from the edge.
 
+# ![Drill Guide alignment](imgs/alignment.jpg)
+
 ## BOM
 
 - M6 Bolts (can be changed via parameters)
