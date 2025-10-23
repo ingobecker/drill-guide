@@ -36,7 +36,7 @@ and the hole will be positioned exactly 10 mm away from the edge.
 
 ## Assemblby
 
-1. Print all the parts as shown on the picture.
+1. Print all the parts as shown on the picture. The [prerendered STL files](STL) use the defaults parameters (3 mm drill hole, M6 bolts).
 2. The holes for the bolts are .5 mm smaller than the actual diameter of the bolts. They cut a thread into the part when screwed in. Make sure to align the top part with the clamp part
 when the bolts are screwed in so there is no gap between the top and the clamp.
 
