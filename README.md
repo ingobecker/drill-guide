@@ -23,13 +23,20 @@ You can invoce the script with those parameters:
 $ ./drill-guide.py -d 10 -m 12
 
 Material thickness: 12.0, Hole distance from edge: 10.0
-Alignment mark: 67.7 mm
+Alignment mark (long handle): 67.7 mm
 ```
 
 Place the marking 67.7 mm away from the edge, align the longer handles edge with the marking
 and the hole will be positioned exactly 10 mm away from the edge.
 
 # ![Drill Guide alignment](imgs/alignment.jpg)
+
+If the workpiece is too small to align it with the long handle, you can use the short handle as well.
+Simply run the  script with the `-a short` options.
+
+
+*Be aware that in this case, you have to align the marking with the handles egde that is facing towards
+the hole.*
 
 ## BOM
 
